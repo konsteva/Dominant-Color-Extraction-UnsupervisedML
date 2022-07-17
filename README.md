@@ -3,3 +3,22 @@ In this project an automated dominant color extraction method using clustering m
 
 # Some examples:
 ## Input Image:
+![](Sample%20Images/Sample1.png)
+## Dominant Colors:
+![](Sample%20Images/Sample1_Dominant.png)
+## Input Image:
+![](Sample%20Images/Sample2.webp)
+## Dominant Colors:
+![](Sample%20Images/Sample2_Dominant.png)
+## Input Image:
+![](Sample%20Images/Sample3.jpg)
+## Dominant Colors:
+![](Sample%20Images/Sample3_Dominant.png)
+## Input Image:
+![](Sample%20Images/Sample4.webp)
+## Dominant Colors:
+![](Sample%20Images/Sample4_Dominant.png)
+## Input Image:
+![](Sample%20Images/Sample5.jpg)
+## Dominant Colors:
+![](Sample%20Images/Sample5_Dominant.png)
