@@ -87,5 +87,5 @@ In this project an automated dominant color extraction method using clustering m
 For example the red part of the photo above is the bathroom scene:
 ![](Sample%20Images/bathroom.jpg)
 
-# Time Magazine Covers: 2 Dominant Colors 1923-2022
+# Time Magazine Covers 1923-2022: 2 Dominant Colors 
 ![](Sample%20Images/Time_Magazine_Covers.png)
